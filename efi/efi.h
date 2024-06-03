@@ -23,6 +23,7 @@
 #include <efi.h>
 #include <efilib.h>
 #include <efistdarg.h>
+#include <efisetjmp.h>
 
 /* Delay for 100 ms */
 #define EFI_NOMAP_PRINT_DELAY	100
